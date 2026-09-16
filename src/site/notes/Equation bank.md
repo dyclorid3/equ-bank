@@ -24,7 +24,7 @@ views:
     order:
       - file.name
     sort:
-      - property: file.mtime
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 258
