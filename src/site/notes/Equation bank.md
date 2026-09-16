@@ -6,7 +6,7 @@
 > 
 > ~ Dylan, '71
 
-This site will provide you with all equation I have known or I care to take note of it. Don't expect to actually have all equation available
+This site will provide you with all equation I have known or I care to take note of it. Don't expect to actually have all equation available, also check the [[Dictionary\|Dictionary]]
 
 
 ```base

@@ -6,8 +6,3 @@
 $$[H^+]=[HA]×v$$
 #### Base
 $$[OH^-]=[BOH]×v$$
-#### Information
-- $[HA]$ = concentration of $[HA]$
-- $[BOH]$ = concentration of $[BOH]$
-- v = number of valence
-
