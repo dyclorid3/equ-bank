@@ -23,7 +23,9 @@ views:
         - file.hasTag("equ")
     order:
       - file.name
-      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: ASC
     columnSize:
       file.name: 258
 
