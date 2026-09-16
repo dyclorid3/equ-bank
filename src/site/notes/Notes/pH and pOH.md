@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/p-h-and-p-oh/","tags":["equ"],"dg-note-properties":{"tags":["equ"]}}
+{"dg-publish":true,"permalink":"/notes/p-h-and-p-oh/","tags":["equ"],"dg-note-properties":{"tags":["equ"],"Information":"[[Dictionary]]"}}
 ---
 
 
@@ -11,6 +11,3 @@ $$pH=14-pOH$$
 - [[Notes/Weak Category\|Weak Category]]
 - [[Notes/Buffer compound\|Buffer compound]]
 - [[Notes/Salt compound\|Salt compound]]
-
-#### Information:
-check [[Dictionary\|Dictionary]]
