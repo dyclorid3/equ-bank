@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/equation-bank/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
  >This note only purpose is to show equation, no explanation. I don't have any intention to add it, for now... 
 > 
 > ~ Dylan, '71
