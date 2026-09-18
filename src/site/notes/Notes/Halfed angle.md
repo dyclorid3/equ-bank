@@ -3,8 +3,8 @@
 ---
 
 #### sinuses
-$$\sin\alpha=\sqrt{\frac{1-(\cos\frac{1}{2}\alpha)}{2}}$$
+$$\sin\frac{1}{2}\alpha=\sqrt{\frac{1-(\cos\alpha)}{2}}$$
 #### cosine
-$$\cos\alpha=\sqrt{\frac{1+(\cos\frac{1}{2}\alpha)}{2}}$$
+$$\cos\frac{1}{2}\alpha=\sqrt{\frac{1+(\cos\alpha)}{2}}$$
 #### tangent
-$$\tan\alpha=\sqrt{\frac{1-(\cos\frac{1}{2}\alpha)}{1+(\cos\frac{1}{2}\alpha)}}$$
+$$\tan\frac{1}{2}\alpha=\sqrt{\frac{1-(\cos\alpha)}{1+(\cos\alpha)}}$$
