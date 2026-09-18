@@ -48,7 +48,7 @@ This site will provide you with all equation I have known or I care to take note
 ### Viscosity
 - [[Notes/Relative viscosity\|Relative viscosity]]
 - [[Notes/Specific viscosity\|Specific viscosity]]
-- [[ Intrinsic viscosity\| Intrinsic viscosity]]
+- [[Notes/Intrinsic viscosity\|Intrinsic viscosity]]
 
 ### Mol Fraction
 - [[Notes/vapor fraction\|vapor fraction]]
