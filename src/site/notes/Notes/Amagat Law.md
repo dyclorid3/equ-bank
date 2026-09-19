@@ -3,3 +3,4 @@
 ---
 
 $$V_{total}=\frac{n_{total}RT}{P}$$
+$$V_{total}=\Sigma{P_{parsial}}$$
